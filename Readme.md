@@ -19,10 +19,10 @@ Rebuilding well-known systems is one of the best ways to:
 | ---------------------------------- | ----------------------------------------------------- | -------------- |
 | 🧪 `build-my-own-vercel`           | A platform to deploy serverless functions like Vercel | 🚧 In Progress |
 | 🧠 `build-my-own-cursor-ai-ide`    | A code editor enhanced with basic AI capabilities     | 🔬 Prototype   |
-| 🗃️ `build-my-own-redis`            | An in-memory key-value store                          | ✅ Completed   |
+| 🗃️ `build-my-own-redis`            | An in-memory key-value store                          | 🧪 Exploring   |
 | 🌐 `build-my-own-dns`              | A simplified DNS server to resolve domains            | 🛠️ WIP         |
-| 🧾 `build-my-own-programming-lang` | A toy programming language with its own parser + VM   | 🧪 Exploring   |
-| 🎥 `build-my-own-streamYerd`       | A basic live video + chat streaming tool              | 🚧 In Progress |
+| 🧾 `build-my-own-programming-lang` | A programming language with its own parser            | ✅ Completed   |
+| 🎥 `build-my-own-streamYerd`       | A basic live video                                    | 🚧 In Progress |
 
 > Each project lives in its own folder and is self-contained.
 
