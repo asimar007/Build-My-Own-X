@@ -1,0 +1,67 @@
+# Dependency directories
+node_modules/
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build artifacts
+build/
+dist/
+.next/ # Next.js build output
+out/   # Next.js export output
+.cache/
+public/build/ # often used for compiled assets
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tgz
+
+# Testing
+/coverage
+
+# npm package manager
+.npm/
+
+# Yarn
+.yarn/
+.pnp.*
+
+# Visual Studio Code
+.vscode/
+
+# Other IDEs
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS generated files
+.DS_Store
+ehthumbs.db
+.bash_history
+.external_build
+.git/
+
+# Next.js specific
+next-env.d.ts # Next.js automatically generates this file
+
+# Vercel deployment (if applicable)
+.vercel/
+
+# Editor-specific
+*.swp
+*.swo
