@@ -17,7 +17,7 @@ Rebuilding well-known systems is one of the best ways to:
 
 | Project                            | Description                                           | Status         |
 | ---------------------------------- | ----------------------------------------------------- | -------------- |
-| 🧪 `build-my-own-vercel`           | A platform to deploy serverless functions like Vercel | 🚧 In Progress |
+| 🧪 `build-my-own-Github`           | A self-hosted Git server with SSH and web UI support. | ✅ Completed   |
 | 🧠 `build-my-own-cursor-ai-ide`    | A code editor enhanced with basic AI capabilities     | 🔬 Prototype   |
 | 🗃️ `build-my-own-redis`            | An in-memory key-value store                          | 🧪 Exploring   |
 | 🌐 `build-my-own-dns`              | A simplified DNS server to resolve domains            | 🛠️ WIP         |
