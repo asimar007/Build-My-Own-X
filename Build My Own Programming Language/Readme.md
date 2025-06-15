@@ -13,7 +13,7 @@ The project is organized into several JavaScript files, each responsible for a s
 - `compiler.js`: Orchestrates the overall compilation process, likely connecting the lexer, parser, and code generator.
 
 - `code_generator.js`: Responsible for transforming the AST into executable code (e.g., bytecode, machine code, or an intermediate representation).
-s
+  s
 - `runner.js`: Executes the generated code.
 
 - `main.js`: The entry point of the application, which likely ties all the components together to process and run a program written in your language.
